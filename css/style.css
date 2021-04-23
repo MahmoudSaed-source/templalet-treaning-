@@ -5,6 +5,12 @@
 html{
     scroll-behavior: smooth;
 }
+title{
+    text-transform: uppercase;
+    font-style: 20px;
+    color:#000;
+    font-weight: 800;
+}
 body{
     background-color: black;
     font-family: 'Montserrat', sans-serif;
